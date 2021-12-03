@@ -1,0 +1,24 @@
+
+h1{
+    text-align: center;
+    color: blue;
+}
+.div img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 366px;
+    width: 244px;
+}
+.div{
+    margin: 0px auto;
+    height: auto;
+    width: 400px;
+}
+.div b {
+    color: blue;
+}
+
+.div h3 {
+    color: blue;
+}
